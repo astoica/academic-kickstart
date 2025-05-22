@@ -38,11 +38,6 @@ profiles:
   - icon: academicons/google-scholar
     url: [https://scholar.google.com/](https://scholar.google.com/citations?user=-oESmhEAAAAJ&hl=en)
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+I'm a Research Group Leader in the [Social Foundations for Computation Department](https://is.mpg.de/sf/) at the Max Planck Institute for Intelligent Systems, T\&uuml;bingen, advised by [Moritz Hardt](https://mrtz.org). I completed my Ph.D. in Computer Science at Columbia University in 2022, supervised by [Augustin Chaintreau](https://www.engineering.columbia.edu/faculty-staff/directory/augustin-chaintreau). I spent Fall 2022 as a Simons Fellow at the Simons Instiute for Theory of Computing at University of California at Berkeley, attending the Graph Limits and Processes on Networks program.
 
 ---
-
-I'm a Research Group Leader in the [Social Foundations for Computation Department](https://is.mpg.de/sf/) at the Max Planck Institute for Intelligent Systems, T\&uuml;bingen, advised by [Moritz Hardt](https://mrtz.org). I completed my Ph.D. in Computer Science at Columbia University in 2022, supervised by [Augustin Chaintreau](https://www.engineering.columbia.edu/faculty-staff/directory/augustin-chaintreau). I spent Fall 2022 as a Simons Fellow at the Simons Instiute for Theory of Computing at University of California at Berkeley, attending the Graph Limits and Processes on Networks program.
