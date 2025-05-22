@@ -1,0 +1,5 @@
+.avatar {
+  width: 200px;    /* Adjust this value as desired */
+  height: 200px;   /* Adjust this value as desired */
+  object-fit: cover;
+}
