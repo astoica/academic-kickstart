@@ -32,14 +32,13 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'About Me'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I work on algorithmic foundations for multi-objective optimization problems with societal considerations. From algorithmic design with fairness considerations to evaluating resource-allocation systems with equity and incentive alignment, I am particularly interested in designing algorithms to improve people's access to information and opportunities. I obtained my Ph.D. from Columbia University and my B.A. in Mathematics from Princeton University.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+    Since 2019, I has been co-organizing the [EAAMO Bridges initiative](https://bridges.eaamo.org), formerly known as MD4SG. I am a co-founder of the ACM conference series on Equity and Access in Algorithms, Mechanisms, and Optimization, for which together served as a Program Co-Chair for the inaugural edition together with Rediet Abebe and Irene Lo. Check out [ACM EAAMO'25]((https://conference.eaamo.org)), taking place at the University of Pittsburgh, Nov 5-7, 2025! 
+
     design:
       columns: '1'
   - block: collection
