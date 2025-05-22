@@ -40,9 +40,6 @@ sections:
         Since 2019, I have been co-organizing the [EAAMO Bridges initiative](<https://bridges.eaamo.org>), formerly known as MD4SG. I am a co-founder of the ACM conference series on Equity and Access in Algorithms, Mechanisms, and Optimization, for which together served as a Program Co-Chair for the inaugural edition together with Rediet Abebe and Irene Lo. Check out [ACM EAAMO'25](<https://conference.eaamo.org>), taking place at the University of Pittsburgh, Nov 5-7, 2025!
     design:
       columns: '1'
-    # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
   - block: collection
     id: news
     content:
