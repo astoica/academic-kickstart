@@ -32,15 +32,25 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: 'About Me'
+      title: 'My Research'
       subtitle: ''
       text: |-
         I work on algorithmic foundations for multi-objective optimization problems with societal considerations. From algorithmic design with fairness considerations to evaluating resource-allocation systems with equity and incentive alignment, I am particularly interested in designing algorithms to improve people's access to information and opportunities. I obtained my Ph.D. from Columbia University and my B.A. in Mathematics from Princeton University.
 
-    Since 2019, I has been co-organizing the [EAAMO Bridges initiative](https://bridges.eaamo.org), formerly known as MD4SG. I am a co-founder of the ACM conference series on Equity and Access in Algorithms, Mechanisms, and Optimization, for which together served as a Program Co-Chair for the inaugural edition together with Rediet Abebe and Irene Lo. Check out [ACM EAAMO'25](https://conference.eaamo.org), taking place at the University of Pittsburgh, Nov 5-7, 2025! 
-
+        Since 2019, I has been co-organizing the [EAAMO Bridges initiative](<https://bridges.eaamo.org>), formerly known as MD4SG. I am a co-founder of the ACM conference series on Equity and Access in Algorithms, Mechanisms, and Optimization, for which together served as a Program Co-Chair for the inaugural edition together with Rediet Abebe and Irene Lo. Check out [ACM EAAMO'25](<https://conference.eaamo.org>), taking place at the University of Pittsburgh, Nov 5-7, 2025!
     design:
       columns: '1'
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
   - block: collection
     content:
       title: Recent Publications
@@ -52,9 +62,19 @@ sections:
     design:
       view: citation
   - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 1
+  - block: collection
     id: news
     content:
-      title: News
+      title: Recent News
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
