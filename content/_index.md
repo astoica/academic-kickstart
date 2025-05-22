@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: 'My Research'
+      title: 'About me'
       subtitle: ''
       text: |-
         I work on algorithmic foundations for multi-objective optimization problems with societal considerations. From algorithmic design with fairness considerations to evaluating resource-allocation systems with equity and incentive alignment, I am particularly interested in designing algorithms to improve people's access to information and opportunities. I obtained my Ph.D. from Columbia University and my B.A. in Mathematics from Princeton University.
